@@ -7,6 +7,7 @@ let x = function(event) {
   let y = function(e) {
     console.log(e)
     alert("Hello World2!")
+    alert("Hello Hey")
   }
   
   btn.addEventListener('click', x)
