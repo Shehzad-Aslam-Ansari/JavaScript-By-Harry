@@ -28,3 +28,4 @@ const dict = {
 }
 
 console.log(dict['yakka'])
+console.log("Hi this is is")
